@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task", "task\task.csproj", "{A5E1C83F-F929-4205-98F7-8A6E1759C268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{F2950059-C96D-4756-BA45-102B800D04EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My collection", "My collection\My collection.csproj", "{A0E008DE-88A6-467F-A71B-D5B649171C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E1C83F-F929-4205-98F7-8A6E1759C268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E1C83F-F929-4205-98F7-8A6E1759C268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E1C83F-F929-4205-98F7-8A6E1759C268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E1C83F-F929-4205-98F7-8A6E1759C268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2950059-C96D-4756-BA45-102B800D04EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2950059-C96D-4756-BA45-102B800D04EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2950059-C96D-4756-BA45-102B800D04EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2950059-C96D-4756-BA45-102B800D04EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E008DE-88A6-467F-A71B-D5B649171C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E008DE-88A6-467F-A71B-D5B649171C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E008DE-88A6-467F-A71B-D5B649171C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E008DE-88A6-467F-A71B-D5B649171C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
